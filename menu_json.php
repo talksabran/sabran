@@ -17,6 +17,7 @@ $a = arrayToObject($a);
 
 echo json_encode($a);
 echo "<br>";
+echo "L.B.Thushali Dilrukshenee Rathnayake";
 print_r ($a);
 
 
