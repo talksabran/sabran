@@ -17,7 +17,7 @@ $a = arrayToObject($a);
 
 echo json_encode($a);
 echo "<br>";
-echo "L.B.Thushali Dilrukshenee Rathnayake";
+echo "L.B.Thushali Dilrukshenee Rathnayake sdaiojdjkas dsn dsahdjksajkldjkasjdkhasjkhdkjsadk";
 print_r ($a);
 
 
